@@ -488,7 +488,7 @@ except Exception as e:
         except Exception as db_error:
             print(f"\n数据库保存失败: {db_error}")
 finally:
-    # 记录结束时间（无论成功失败）
+    # 记录结束时间
     end_time = datetime.datetime.now()
     total_time = end_time - start_time
     print(f"\n===== 程序执行结束: {end_time.strftime('%Y-%m-%d %H:%M:%S')} =====")
