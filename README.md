@@ -98,12 +98,10 @@ AI 调用额度：ChatAnywhere 需自行查看额度情况
 
 天气地区参数：务必使用正确的 districtId
 
-## 🎨 效果预览（可自行替换截图）
-
+## 🎨 效果预览
 包含天气卡片、历史事件、热搜列表、每日一图及伊蕾娜风格 AI 建议，排版清晰美观。
 
-（如无截图，可删去此段）
-
+![](https://cdn.jsdelivr.net/gh/naiheMy/my_imgs@img/img/202511301242879.png)
 ## 📄 许可证
 
 本项目基于 MIT License 开源，支持修改、分发与商用。
